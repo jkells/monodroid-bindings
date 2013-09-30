@@ -1,3 +1,0 @@
-<metadata>
-  <remove-node path="/api/package[starts-with(@name, 'android.support.v7.internal')]"/>
-</metadata>
